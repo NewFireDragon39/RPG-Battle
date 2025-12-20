@@ -7,4 +7,4 @@ Optionally: you can download the RPG Battle.exe file.
 
 ## License
 Licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).  
-© 2025 TheREALFireBros
+© 2025 NewFireDragon39
